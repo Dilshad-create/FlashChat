@@ -1,4 +1,3 @@
-## Hello
 
 - use Firebase authentication to register and sign in users.
 - create animations using the Flutter Hero widget.
